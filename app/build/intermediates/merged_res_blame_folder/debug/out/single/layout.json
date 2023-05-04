@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-mergeDebugResources-34:/layout/activity_main.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-main-37:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-mergeDebugResources-34:/layout/activity_query.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-main-37:/layout/activity_query.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-mergeDebugResources-34:/layout/activity_signin.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-main-37:/layout/activity_signin.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-mergeDebugResources-34:/layout/activity_signup.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-main-37:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-mergeDebugResources-34:/layout/activity_login.xml",
+        "source": "/home/emobilis/.gradle/daemon/8.0/com.example.myproject.app-main-37:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.myproject.app-mergeDebugResources-34:/layout/activity_query.xml",
+        "source": "com.example.myproject.app-main-37:/layout/activity_query.xml"
+    }
+]
